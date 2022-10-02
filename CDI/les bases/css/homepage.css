@@ -1,0 +1,327 @@
+.div1{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 10%
+}
+.logo{
+    display: flex;
+    justify-content: space-between ;
+}
+.logo1{
+    margin-left: 20%;
+}
+.logo2{
+    margin-left: 0%;
+    justify-content: space-between;
+}
+.sec2 a{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+body{
+    margin: 0;
+}
+.sec1{
+    display: flex;
+    align-items: baseline;
+    
+}
+
+.imagecapteur {
+    width: 100%;
+}
+
+
+.catalogue{
+    margin-left: 10%;
+}
+.assistance{
+    margin: 2%;
+}
+.myfreestyle{
+    margin: 2%;
+}
+.trier_recycler{
+    margin: 2%;
+}
+.blue{
+    color: blue;
+    font-size: 200%;
+}
+.black{
+    color: black;
+}
+.red{
+    color: red;
+}
+.sec3{
+    display: flex;
+   flex-direction: row-reverse;
+   justify-content: flex-end;
+   flex-direction: column;
+}
+.sec4{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-direction: row;
+    flex-direction: column;
+}
+footer{
+    margin: 0;
+}
+.support{
+     margin: 2%; 
+}
+.connexion{
+    margin: 2%;
+}
+.support{
+    margin: 2%;
+}
+.recycler_mes_capteurs{
+    margin: 2%;
+}
+.catalogue_de_ventes{
+    margin: 2%;
+}
+.red{
+    color: red;
+}
+
+.colonne {
+display: flex;
+flex-direction: row;
+gap: 20%;
+}
+
+main{
+    margin-bottom: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:800){
+    .div1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 10%
+        }
+        .logo{
+            display: flex;
+            justify-content: space-between ;
+        }
+        .logo1{
+            margin-left: 20%;
+        }
+        .logo2{
+            margin-left: 0%;
+            justify-content: space-between;
+        }
+        .sec2 a{
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+        body{
+            margin: 0;
+        }
+        .sec1{
+            display: flex;
+            align-items: baseline;
+            
+        }
+        
+        .imagecapteur {
+            width: 100%;
+        }
+        
+        
+        .catalogue{
+            margin-left: 10%;
+        }
+        .assistance{
+            margin: 2%;
+        }
+        .myfreestyle{
+            margin: 2%;
+        }
+        .trier_recycler{
+            margin: 2%;
+        }
+        .blue{
+            color: blue;
+            font-size: 200%;
+        }
+        .black{
+            color: black;
+        }
+        .red{
+            color: red;
+        }
+        .sec3{
+            display: flex;
+           flex-direction: row-reverse;
+           justify-content: flex-end;
+           flex-direction: column;
+        }
+        .sec4{
+            display: flex;
+            flex-direction: row-reverse;
+            flex-direction: row;
+            flex-direction: column;
+        }
+        footer{
+            margin: 0;
+        }
+        .support{
+             margin: 2%; 
+        }
+        .connexion{
+            margin: 2%;
+        }
+        .support{
+            margin: 2%;
+        }
+        .recycler_mes_capteurs{
+            margin: 2%;
+        }
+        .catalogue_de_ventes{
+            margin: 2%;
+        }
+        .red{
+            color: red;
+        }
+        
+        .colonne {
+        display: flex;
+        flex-direction: row;
+        gap: 20%;
+        }
+        
+        main{
+            margin-bottom: 10%;
+        }
+        
+
+
+
+@media screen and (max-width:480){
+    .div1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 10%
+        }
+        .logo{
+            display: flex;
+            justify-content: space-between ;
+        }
+        .logo1{
+            margin-left: 20%;
+        }
+        .logo2{
+            margin-left: 0%;
+            justify-content: space-between;
+        }
+        .sec2 a{
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+        body{
+            margin: 0;
+        }
+        .sec1{
+            display: flex;
+            align-items: baseline;
+            
+        }
+        
+        .imagecapteur {
+            width: 100%;
+        }
+        
+        
+        .catalogue{
+            margin-left: 10%;
+        }
+        .assistance{
+            margin: 2%;
+        }
+        .myfreestyle{
+            margin: 2%;
+        }
+        .trier_recycler{
+            margin: 2%;
+        }
+        .blue{
+            color: blue;
+            font-size: 200%;
+        }
+        .black{
+            color: black;
+        }
+        .red{
+            color: red;
+        }
+        .sec3{
+            display: flex;
+           flex-direction: row-reverse;
+           justify-content: flex-end;
+           flex-direction: column;
+        }
+        .sec4{
+            display: flex;
+            flex-direction: row-reverse;
+            flex-direction: row;
+            flex-direction: column;
+        }
+        footer{
+            margin: 0;
+        }
+        .support{
+             margin: 2%; 
+        }
+        .connexion{
+            margin: 2%;
+        }
+        .support{
+            margin: 2%;
+        }
+        .recycler_mes_capteurs{
+            margin: 2%;
+        }
+        .catalogue_de_ventes{
+            margin: 2%;
+        }
+        .red{
+            color: red;
+        }
+        
+        .colonne {
+        display: flex;
+        flex-direction: row;
+        gap: 20%;
+        }
+        
+        main{
+            margin-bottom: 10%;
+        }
+        
